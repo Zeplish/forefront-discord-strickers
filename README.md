@@ -1,2 +1,3 @@
-# forefront-discord-strickers
-Custom discord stickers for forefront.
+# Forefront Discord Strickers
+
+Size 320px * 320px
